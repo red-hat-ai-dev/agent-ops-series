@@ -25,10 +25,10 @@ This repo contains a LangGraph ReAct agent that evolves across the series. We st
 |---|-------|---------------|--------------|
 | 1 | [Is Your AI Agent a Liability?](https://youtu.be/LJHn6a_z9e0) | - | No code (conceptual framing) |
 | 2 | [Run Local AI Agents for Free](https://youtu.be/i4A8jN41NNs?si=3A20z_qRYWUibSGb) | Working local agent | Agent code, Ollama/OGX setup, MCP tools |
-| 3 | [Deploy AI Agents on Kubernetes](#video-3----deploying-ai-agents-on-kubernetes-ollama-to-vllm) | Containerized agent on OpenShift | Dockerfile, Helm chart, deploy targets |
-| 4 | [Sandbox Your AI Agent](#video-4----sandbox-your-ai-agent-openshell) | Sandboxed agent with OpenShell | OpenShell Helm values |
-| 5 | [MCP Gateway Tool Authorization](#video-5----mcp-gateway-tool-authorization) | Identity-based tool authorization | MCP Gateway manifests |
-| 6 | [LLM Observability](#video-6----llm-observability-monitor-and-trace-ai-agents) | MLflow tracing | Tracing config |
+| 3 | [Deploy AI Agents on Kubernetes](https://youtu.be/6MuAOFfJk2w?si=bZaKmpAwPeAEMi12) | Containerized agent on OpenShift | Dockerfile, Helm chart, deploy targets |
+| 4 | [Sandbox Your AI Agent](https://youtu.be/sXXYJQ-3mXs?si=dPjoElvgrTs-fiaM) | Sandboxed agent with OpenShell | OpenShell Helm values |
+| 5 | [MCP Gateway Tool Authorization](https://youtu.be/2M3SByYGuZk?si=Yox42PzVyLYhh7Nn) | Identity-based tool authorization | MCP Gateway manifests |
+| 6 | [LLM Observability](https://youtu.be/AWyvtTN8zjY?si=fapWK7mdpyKI6a3v) | MLflow tracing | Tracing config |
 
 ---
 
